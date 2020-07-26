@@ -1,0 +1,6 @@
+framework module Pods_SwiftUIChatFB_SwiftUIChatFBUITests {
+  umbrella header "Pods-SwiftUIChatFB-SwiftUIChatFBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
